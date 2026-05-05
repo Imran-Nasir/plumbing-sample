@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import { useBooking } from '@/app/context/BookingContext'
 
 export const metadata = {
   title: 'Plumbing Tips & Home Care Blog | Easy Plumbing',
