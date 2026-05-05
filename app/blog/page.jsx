@@ -36,7 +36,7 @@ const posts = [
   },
   {
     id: 4,
-    title: 'Understanding Your Home's Water Pressure',
+    title: "Understanding Your Home's Water Pressure",
     category: 'Education',
     date: 'October 14, 2024',
     excerpt: 'High water pressure feels great in the shower but silently destroys pipes, fixtures, and appliances.',
