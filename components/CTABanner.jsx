@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function CTABanner({
   title = 'Need a Plumber Fast?',
-  subtitle = 'We're available 24/7 for emergencies. Call or book online now.',
+  subtitle = "We're available 24/7 for emergencies. Call or book online now.",
   buttonText = 'Get Help Now',
   buttonHref = '/contact',
   variant = 'blue',

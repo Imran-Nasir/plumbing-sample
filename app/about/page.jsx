@@ -19,7 +19,7 @@ const values = [
   {
     icon: Heart,
     title: 'Honesty First',
-    description: 'We give upfront pricing and never recommend work that isn't needed.',
+    description: "We give upfront pricing and never recommend work that isn't needed.",
   },
   {
     icon: Zap,

@@ -56,7 +56,7 @@ const positions = [
     requirements: [
       'Enrolled in or completed an apprenticeship program',
       'Willingness to learn and take direction',
-      'Valid driver's license and clean driving record',
+      "Valid driver's license and clean driving record",
     ],
   },
   {
