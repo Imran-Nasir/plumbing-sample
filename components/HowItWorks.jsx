@@ -8,7 +8,7 @@ const steps = [
     number: '01',
     icon: Phone,
     title: 'Call or Book Online',
-    description: 'Pick a time that works for you — we're available 24/7.',
+    description: "Pick a time that works for you — we're available 24/7.",
   },
   {
     number: '02',

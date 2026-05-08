@@ -25,7 +25,7 @@ const testimonials = [
   { name: 'Marcus R.', city: 'Springfield', rating: 5, quote: 'They arrived in 45 minutes and fixed our burst pipe before the damage got worse. Incredible service.' },
   { name: 'Jennifer L.', city: 'Riverside', rating: 5, quote: 'Upfront pricing, no hidden fees. The plumber was professional and cleaned up after himself. Will use again!' },
   { name: 'Tom & Carla B.', city: 'Lakewood', rating: 5, quote: 'Our water heater failed at midnight. Easy Plumbing was here by 1am and installed a new one. Lifesavers.' },
-  { name: 'Sophia M.', city: 'Springfield', rating: 5, quote: 'I've used them twice now for different issues. Both times: fast, fair, and friendly. Highly recommend.' },
+  { name: 'Sophia M.', city: 'Springfield', rating: 5, quote: "I've used them twice now for different issues. Both times: fast, fair, and friendly. Highly recommend." },
   { name: 'Derek H.', city: 'Greenfield', rating: 5, quote: 'Got three quotes — Easy Plumbing was 20% cheaper AND finished the job in half the time. Five stars.' },
   { name: 'Alice N.', city: 'Maplewood', rating: 5, quote: 'Super easy to book online. They came same day, diagnosed the issue in minutes, and fixed it right away.' },
 ]
