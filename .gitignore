@@ -16,6 +16,7 @@
 /build
 
 # misc
+temp_auto_push.bat
 .DS_Store
 *.pem
 
@@ -26,7 +27,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.gitignore
+branch_structure.json
+config.bat
